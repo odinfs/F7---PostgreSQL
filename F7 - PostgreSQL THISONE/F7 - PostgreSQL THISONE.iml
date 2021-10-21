@@ -13,6 +13,7 @@
       <excludeFolder url="file://$MODULE_DIR$/${project.build.directory}/classes" />
       <excludeFolder url="file://$MODULE_DIR$/${project.build.directory}/test-classes" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
     </content>
     <content url="file://$MODULE_DIR$/../F7 - PostgreSQL/src/main/java" />
     <content url="file://$MODULE_DIR$/../F7 - PostgreSQL/src/main/resources" />

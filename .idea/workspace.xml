@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2cd7ccab-b87e-4aa0-9795-270c15884b11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/src/main/java/no/kristiania/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/src/main/java/no/kristiania/person/PersonDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/src/main/java/no/kristiania/person/PersonDaoAssigment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/src/main/resources/db/migration/V001__create_table_people.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/src/test/java/no/kristiania/person/PersonDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/src/test/java/no/kristiania/person/PersonDaoTestAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/target/classes/db/migration/V001__create_table_people.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/target/classes/no/kristiania/person/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/target/classes/no/kristiania/person/PersonDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/target/classes/no/kristiania/person/PersonDaoAssigment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/target/test-classes/no/kristiania/person/PersonDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F7 - PostgreSQL/target/test-classes/no/kristiania/person/PersonDaoTestAssignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F7 - PostgreSQL THISONE/F7 - PostgreSQL THISONE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/F7 - PostgreSQL THISONE/F7 - PostgreSQL THISONE.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -52,6 +37,49 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11709601" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/F7 - PostgreSQL THISONE" />
+      <recent name="$PROJECT_DIR$/F7 - PostgreSQL" />
+      <recent name="$PROJECT_DIR$/F7 - PostgreSQL/THISONE" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonDaoTest">
+    <configuration name="PersonDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.kristiania.person.PersonDao" />
+      <module name="F7 - PostgreSQL THISONE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="F7 - PostgreSQL THISONE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.kristiania.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.kristiania.person" />
+      <option name="MAIN_CLASS_NAME" value="no.kristiania.person.PersonDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonDaoTest" />
+        <item itemvalue="Application.PersonDao" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634816977866</updated>
-      <workItem from="1634816979861" duration="365000" />
+      <workItem from="1634816979861" duration="1137000" />
     </task>
     <servers />
   </component>
