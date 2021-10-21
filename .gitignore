@@ -1,4 +1,5 @@
-/F7 - PostgreSQL THISONE/THISONE/.idea/
-/F7 - PostgreSQL/.target/
-/F7 - PostgreSQL/.*.iml
+/.idea/
+*.iml
+target/
 
+.DS_Store
